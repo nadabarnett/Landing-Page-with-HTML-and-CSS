@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    transition: all .4s ease;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    color: #000000;
+}
+a,
+a:hover{
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    transition: all .4s ease;
+}
+.container{
+    width: 80%;
+    margin: 0px auto;
+    position: relative;
+}
+header{
+    padding: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+header img {
+    width: 312px;
+    height: 300px;
+    margin-top: -100px;
+}
+section.banner{
+    padding: 70px 0px;
+    background: rgb(255,255,255);
+    background: linear-gradient(133deg, rgba(255,255,255,1) 0%, rgba(77,173,169,1) 70%);
+}
+section.banner .bannerinner{
+    width: 60%;
+}
+section.banner .bannerinner h2{
+    font-size: 32px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+section.banner .bannerinner p{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+section.banner .bannerinner .bannerLeft,
+section.banner .bannerinner .bannerRight{
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
+section.banner .bannerinner .bannerLeft p{
+    font-weight: 400;
+    margin: 0;
+    color: white;
+    font-size: 1em;
+}
+section.banner .bannerinner .bannerRight a{
+    font-size: 20px;
+    background-color: #000000;
+    padding: 10px 20px;
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+    float: right;
+}
+
+section.conflicts{
+    padding: 40px 0;
+}
+section.conflicts h3{
+    font-size: 22px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 30px;
+}
+section.conflicts ul{
+    padding: 0;
+    width: 60%;
+    margin: 0px auto;
+}
+section.conflicts ul li{
+    list-style: none;
+    font-size: 16px;
+    color: #000000;
+    position: relative;
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 30px;
+    padding-left: 50px;
+}
+section.conflicts ul li:before{
+    content:"";
+    position: absolute;
+    left: 0;
+    top: -10px;
+    width: 35px;
+    height: 35px;
+    background-image: url("../images/SVG/MAST-service-checkmark.svg");
+}
+
+
+section.fimilial{
+    padding: 50px 0 70px 0;
+    background-color: #818181;
+}
+section.fimilial h3{
+    font-size: 22px;
+    color: #ffffff;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+section.fimilial .block{
+    display: inline-block;
+    width: 49%;
+}
+section.fimilial .block.block1{
+    padding-right: 50px;
+}
+section.fimilial .block.block2{
+    padding-left: 50px;
+}
+section.fimilial .block .block-inner{
+    padding: 15px;
+    background-color: #ffffff;
+    display: inline-block;
+    position: relative;
+}
+section.fimilial .block .block-inner:after{
+    content: "";
+    position: absolute;
+    width: 68px;
+    height: 40px;
+    right: 50px;
+    bottom: -34px;
+    background-image: url("../images/Path.png");
+}
+section.fimilial .block .block-inner p{
+    font-size: 15px;
+    color: #000000;
+    font-weight: 200;
+    font-style: italic;
+}
+section.fimilial .block .ame{
+    position: relative;
+    left: 60%;
+    top: 30px;
+    display: inherit;
+}
+section.fimilial .block .ame h4{
+    font-size: 16px;
+    color: #000000;
+}
+section.fimilial .block .ame h5{
+    font-size: 16px;
+    color: #CCCCCC;
+    font-weight: 100;
+}
+section.Qform{
+    padding: 50px 0;
+}
+section.Qform h3{
+    font-size: 22px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+section.Qform p{
+    font-size: 16px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.width50{
+    width: 50%;
+    float: left;
+    padding: 0px 15px;
+    margin-bottom: 15px;
+}
+.width100{
+    width: 100%;
+    float: left;
+    padding: 0px 15px;
+    margin-bottom: 15px;
+}
+input[type=text],input[type=email],input[type=phone]{
+    width: 100%;
+    height: 44px;
+    padding: 0 15px ;
+    border: 1px solid #707070;
+    background-color: #fff;
+    font-size: 16px;
+    color: #000000;
+}
+select {
+    width: 100%;
+    height: 90px;
+    padding: 0 15px ;
+    border: 1px solid #707070;
+    background-color: #fff;
+    font-size: 14px;
+    color: #000000;
+}
+section.Qform form{
+    width: 60%;
+    margin: 0px auto;
+
+}
+input[type=checkbox]{
+    width: 15px;
+    height: 15px;
+}
+label{
+    font-size: 12px;
+    color: #000000;
+    position: relative;
+    top: -4px;
+    padding: 25px 0;
+}
+.captcha{
+    padding: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: #000000;
+    border: 1px solid #707070;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.clearfix:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+section.Qform form .QsubmitButton{
+    text-align: center;
+}
+section.Qform form button.Qsubmit {
+    font-size: 20px;
+    background-color: #000000;
+    padding: 10px 20px;
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+}
+footer{
+    padding: 40px 0;
+    background-color: #000000;
+}
+footer a.logo{
+    width: 276px;
+    display: block;
+    margin: 0 auto;
+}
+footer .address{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+footer .detail{
+    width: 60%;
+    margin: 0px auto;
+}
+footer .address p{
+    font-size: 1em;
+    text-align: center;
+    color: #fff;
+    font-weight: 400
+}
+footer .detail p{
+    font-size: 0.8em;
+    text-align: center;
+    color: #fff;
+    font-weight: 200
+}
+.copyright{
+    padding: 15px;
+}
+.copyright p{
+    font-size: 16px;
+    text-align: center;
+}
+.copyright p a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.phone-number a{
+    text-decoration: none;
+    font-weight: 800;
+    color: #ffffff;
+
+}
+/****** Media Queries *********/
+@media only screen and (max-width : 1690px) {
+
+}
+@media only screen and (max-width : 1280px) {
+    section.conflicts ul {
+        width: 80%;
+    }
+}
+@media only screen and (max-width : 980px) {
+    section.banner .bannerinner h2{
+        font-size: 26px;
+    }
+    section.banner .bannerinner p {
+        font-size: 16px;
+    }
+    section.banner .bannerinner .bannerRight{
+        width: 100%;
+    }
+    section.banner .bannerinner .bannerRight a{
+        font-size: 14px;
+        float: none;
+        margin-top: 20px;
+    }
+    section.conflicts ul li{
+        width: 100%;
+    }
+    section.conflicts ul {
+        width: 40%;
+    }
+    section.fimilial .block .ame{
+        left: 30%;
+    }
+    section.Qform form {
+        width: 80%;
+    }
+    footer .detail {
+        width: 80%;
+    }
+}
+@media only screen and (max-width : 736px) {
+    section.banner .bannerinner{
+        width: 100%;
+    }
+    section.conflicts ul {
+        width: 60%;
+    }
+    section.fimilial .block{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    section.fimilial .block.block1,
+    section.fimilial .block.block2{
+        padding: 0;
+    }
+    section.fimilial .block .ame{
+        left: 60%;
+    }
+    section.Qform form {
+        width: 100%;
+    }
+    footer .detail {
+        width: 100%;
+    }
+}
+@media only screen and (max-width : 480px) {
+    .container {
+        width: 90%;
+    }
+    section.banner .bannerinner h2{
+        font-size: 18px;
+        margin-top: 50px;
+    }
+    section.banner .bannerinner .bannerLeft, section.banner .bannerinner .bannerRight{
+        width: 100%;
+        text-align: center;
+    }
+    section.conflicts h3 {
+        font-size: 18px;
+    }
+    section.conflicts ul {
+        width: 80%;
+    }
+    section.fimilial .block .ame{
+        left: 30%;
+    }
+    .width50{
+        width: 100%;
+    }
+    header img {
+        display:block;
+        max-width: 300px;
+        margin: 0 auto;
+        width: 90%;
+        margin-top: -120px;
+    }
+    footer .address p{
+        font-size: 1em;
+        text-align: center;
+        color: #fff;
+        font-weight: 400
+    }
+}
