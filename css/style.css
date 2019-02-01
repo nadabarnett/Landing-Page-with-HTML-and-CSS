@@ -419,7 +419,10 @@ footer .detail p{
         margin: auto;
     }
 
-    section .banner h1 {
-        font-size: 3rem;
-    }
+    section.banner h1{
+        font-size: 2rem;
+        font-weight: 800;
+        text-align: center;
+        color: #000000;
+        margin: 200px 0 20px 0;
 }
