@@ -400,14 +400,26 @@ footer .detail p{
     header img {
         display:block;
         max-width: 300px;
-        margin: 0 auto;
+        margin: auto;
         width: 90%;
-        margin-top: -20px;
+        margin-top: 10px;
     }
     footer .address p{
         font-size: 1em;
         text-align: center;
         color: #fff;
         font-weight: 400
+    }
+    footer .container{
+        text-align: center;
+    }
+
+    footer.logo {
+        display: block;
+        margin: auto;
+    }
+
+    section .banner h1 {
+        font-size: 3rem;
     }
 }
