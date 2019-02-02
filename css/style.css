@@ -245,11 +245,11 @@ footer .address p{
     header .logo img{
         height: 50px;
         float: left;
-       
-        
 
     }
-    
+    .copyright p{
+        text-align: center;
+    }
     }
     footer .address p{
         font-size: 1em;
@@ -266,10 +266,15 @@ footer .address p{
         margin: auto;
     }
 
-    section.banner h1{
-        font-size: 2rem;
-        font-weight: 800;
-        text-align: center;
-        color: #000000;
-        margin: 200px 0 20px 0;
+   .container-icons ul{
+       display: flex;
+   }
+
+   .container-icons ul li{
+       list-style: none;
+   }
+
+   .container-icons ul li img{
+       margin: auto;
+   }
 }
