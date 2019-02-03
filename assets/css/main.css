@@ -291,7 +291,7 @@ p {
 }
 .section-title h3,
 .section-title-left h3 {
-    color: #17223e;
+    color: #000000;
     
     font-size: 50px;
     font-weight: 500;
@@ -435,7 +435,7 @@ body {
 ----------------------------------------------------------------*/ 
 .header-area {
     padding: 100px 0;
-    background: #17223e;
+    background: #000000;
 }
 
 .header-area h1 {
@@ -483,7 +483,7 @@ body {
     box-shadow: 0 0 4px rgba(64, 71, 86, 0.17), 0px 4px 16px rgba(39, 170, 187, 0.33)
 }
 .title {
-    color: #17223e;
+    color: #000000;
     font-weight: 600;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
@@ -496,7 +496,7 @@ body {
 
 /*footer index*/ 
 .footer-area {
-    background: #17223e;
+    background: #000000;
     padding: 50px 0;
 }
 .footer-area .copyright {
@@ -627,7 +627,7 @@ body {
 }
 
 .nav-fixed .navbar-nav .nav-item .nav-link {
-    color: #17223e;  
+    color: #000000;  
 }
 .navbar-toggler-icon {
     width: 1em;
@@ -643,10 +643,10 @@ body {
     height: 3px;
     margin-bottom: 3px;
     display: block;
-    background: #17223e;
+    background: #000000;
 }
 .nav-fixed .navbar-toggler-icon {
-    background: #17223e !important;
+    background: #000000 !important;
 }
 
 .social-media-nav {
@@ -675,7 +675,7 @@ body {
     position: relative;
 }
 .nav-fixed .social-media-nav li a  {
-    color: #17223e !important;
+    color: #000000 !important;
     transition: .1s;
 }
 .nav-fixed .social-media-nav li a:hover {
@@ -701,7 +701,7 @@ body {
     width: 20px;
 }
 .nav-fixed .side-menu-btn span {
-    background: #17223e;
+    background: #000000;
 }
 .nav-fixed .side-menu-btn:hover span {
     background: #000000 ;
@@ -761,7 +761,7 @@ body {
     margin-bottom: 3px;
 }
 .close-side-menu:hover .line-btn {
-    background: #17223e;
+    background: #000000;
 }
 .close-side-menu .line-btn:first-child {
     transform: rotate(45deg);
@@ -790,7 +790,7 @@ body {
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #17223e;
+    color: #000000;
     letter-spacing: 1px;
 }
 .contact-side {
@@ -811,13 +811,19 @@ body {
     padding-left: 40px;
     font-weight: 600;
     font-size: 14px;
-    color: #f8f8f8;
+    color: #000000;
 }
 
 .contact-side .single-contact p {
     margin-bottom: 0;
     line-height: 24px;
     font-weight: 600;
+}
+.contact-side .single-contact a {
+    margin-bottom: 0;
+    line-height: 24px;
+    font-weight: 600;
+    color: #000000;
 }
 /*----------------------------------------------------------------
 					   End  Slids Menu 
@@ -1123,7 +1129,7 @@ text-right {
     font-size: 40px;
 }
 .feat-item h4 {
-    color: #17223e;
+    color: #000000;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -1247,7 +1253,7 @@ text-right {
     height: auto;
 }
 .our-skills .skill-title {
-    color: #17223e;
+    color: #000000;
     text-transform: capitalize;
     font-size: 18px;
     font-weight: 600;
@@ -1277,7 +1283,7 @@ text-right {
     right: -15px;
     top: -38px;
     margin-bottom: 10px;
-    color: #17223e;
+    color: #000000;
     text-transform: uppercase;
     font-size: 18px;
     font-family: 'Montserrat', sans-serif;
@@ -1457,7 +1463,7 @@ text-right {
 }
 .my-work .info-img h5:hover,
 .my-work .info-img span:hover {
-    color: #17223e;
+    color: #000000;
 }
 .info-img span {
     margin-right: -50px;
@@ -1507,7 +1513,7 @@ text-right {
     font-size: 40px;
 }
 .services-item h4 {
-    color: #17223e;
+    color: #000000;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -1711,7 +1717,7 @@ text-right {
 
 }
 .testimonials .author-details h6{
-    color: #17223e;
+    color: #000000;
     font-weight: 600;
     font-size: 18px;
     line-height: 20px;
@@ -1760,7 +1766,7 @@ text-right {
     font-weight: 600;
     font-size: 20px;
     text-align: center;
-    color: #17223e;
+    color: #000000;
 }
 .price-item .value {
     text-align: center;
@@ -1798,7 +1804,7 @@ text-right {
 .price-item .features ul li {
     font-size: 14px;
     font-weight: 500;
-    color: #17223e;
+    color: #000000;
     margin-bottom: 20px;
 }
 .price-item .features ul li span {
@@ -1927,7 +1933,7 @@ text-right {
 
 .blog-info .title-post a h5 {
     display: block;
-    color: #17223e;
+    color: #000000;
     font-size: 18px;
     font-weight: 700;
     line-height: 23px;
@@ -2038,7 +2044,7 @@ text-right {
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #17223e;
+    color: #000000;
     letter-spacing: 1px;
 }
 .contact-item span {
@@ -2410,7 +2416,7 @@ footer .copyright a {
 .widget-profile h4 {
     line-height: 20px;
     text-transform: uppercase;
-    color: #17223e;
+    color: #000000;
     font-weight: 700;
     font-size: 18px;
 }
@@ -2471,7 +2477,7 @@ footer .copyright a {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 13px;
-    color: #17223e;
+    color: #000000;
 }
 .widget-newsletter {
     padding: 30px;
@@ -2501,7 +2507,7 @@ footer .copyright a {
     padding: 13px 50px 13px 15px;
     border: 1px solid rgba(39, 170, 187, 0.19);
     border-radius: 5px;
-    color: #17223e;
+    color: #000000;
 }
 .widget-newsletter .btn-newsletter,
 .widget-search .btn-search {
@@ -2536,7 +2542,7 @@ footer .copyright a {
     
 }
 .widget-posts .inner-text h6 {
-    color: #17223e;
+    color: #000000;
 }
 .widget-posts .lastet-posts {
     border-bottom: 1px solid #f1f1f1;
@@ -2680,7 +2686,7 @@ footer .copyright a {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 13px;
-    color: #17223e;
+    color: #000000;
 }
 
 
@@ -2716,7 +2722,7 @@ footer .copyright a {
 }
 .person h5 {
     display: block;
-    color: #17223e;
+    color: #000000;
     font-size: 18px;
     font-weight: 700;
     line-height: 23px;
@@ -2747,7 +2753,7 @@ footer .copyright a {
     font-family: 'Montserrat', sans-serif;
 }
 .person a:hover {
-    color: #17223e;
+    color: #000000;
 }
 
 
@@ -2762,7 +2768,7 @@ footer .copyright a {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 13px;
-    color: #17223e;
+    color: #000000;
 }
 .comment-form {
     padding: 30px;
