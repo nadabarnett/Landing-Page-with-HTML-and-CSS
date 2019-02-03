@@ -27,14 +27,14 @@
 .nav-fixed .navbar-toggler-icon,
 .nav-fixed .navbar-toggler-icon.active {
     
-    background: #27aabb !important;
+    background: #000000 !important;
 }
 .fixed-top .navbar-nav .active>.nav-link,
 .fixed-top  .navbar-nav .nav-link.active,
 .fixed-top .navbar-nav .nav-link.show,
 .fixed-top  .navbar-nav .show>.nav-link
 {
-    color: #27aabb !important;
+    color: #000000 !important;
 }
 
 .fixed-top  .navbar-nav .active>.nav-link:before,
@@ -201,14 +201,14 @@
 .nav-fixed .navbar-toggler-icon,
 .nav-fixed .navbar-toggler-icon.active {
     
-    background: #27aabb !important;
+    background: #000000 !important;
 }
 .fixed-top .navbar-nav .active>.nav-link,
 .fixed-top  .navbar-nav .nav-link.active,
 .fixed-top .navbar-nav .nav-link.show,
 .fixed-top  .navbar-nav .show>.nav-link
 {
-    color: #27aabb !important;
+    color: #000000 !important;
 }
 
 .fixed-top  .navbar-nav .active>.nav-link:before,
@@ -310,14 +310,14 @@
 .nav-fixed .navbar-toggler-icon,
 .nav-fixed .navbar-toggler-icon.active {
     
-    background: #27aabb !important;
+    background: #000000 !important;
 }
 .fixed-top .navbar-nav .active>.nav-link,
 .fixed-top  .navbar-nav .nav-link.active,
 .fixed-top .navbar-nav .nav-link.show,
 .fixed-top  .navbar-nav .show>.nav-link
 {
-    color: #27aabb !important;
+    color: #000000 !important;
 }
 
 .fixed-top  .navbar-nav .active>.nav-link:before,
