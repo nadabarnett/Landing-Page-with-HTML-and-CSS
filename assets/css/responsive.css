@@ -1,0 +1,428 @@
+@media (max-width: 350px) {
+.play-video span {
+    display: none;
+}
+}
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/*========== Start Theme Preview Index ==========*/  
+.header-area h1 {
+    margin-bottom: 20px;
+    font-size: 26px;
+}
+/*========== Start Navbar ==========*/   
+.navbar-light .navbar-brand .logo-2 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-light .navbar-brand .logo-1 {
+    display: none;
+}
+.navbar-light {
+    background: #FFF;
+}
+.navbar-light .navbar-toggler-icon,
+.navbar-light .navbar-toggler-icon.active ,
+.nav-fixed .navbar-toggler-icon,
+.nav-fixed .navbar-toggler-icon.active {
+    
+    background: #27aabb !important;
+}
+.fixed-top .navbar-nav .active>.nav-link,
+.fixed-top  .navbar-nav .nav-link.active,
+.fixed-top .navbar-nav .nav-link.show,
+.fixed-top  .navbar-nav .show>.nav-link
+{
+    color: #27aabb !important;
+}
+
+.fixed-top  .navbar-nav .active>.nav-link:before,
+.fixed-top  .navbar-nav .nav-link.active:before,
+.fixed-top  .navbar-nav .nav-link.show:before,
+.fixed-top  .navbar-nav .show>.nav-link:before {
+    opacity: 0;  
+}
+.nav-fixed .navbar-nav .active>.nav-link:before,
+.nav-fixed .navbar-nav .nav-link.active:before,
+.nav-fixed .navbar-nav .nav-link.show:before,
+.nav-fixed .navbar-nav .show>.nav-link:before {
+    opacity: 0;
+}
+.navbar-light .navbar-collapse {
+    background: #FFF;
+}
+.navbar-light .navbar-nav .nav-item .nav-link {
+    color: #17223e;
+    margin: 0;  
+    padding: 0 0 15px 0;
+} 
+.fixed-top .social-media-nav li a {
+    color: #17223e !important;
+}
+.social-media-nav {
+    padding: 10px 0;
+    padding-left: 0;
+}
+.navbar-light  .social-media-nav li {
+    padding-right: 10px;
+    padding-left: 0
+}
+.navbar-light  .social-media-nav li a {
+    color: #17223e;
+}
+.nav-fixed .social-media-nav li:first-of-type:before {
+    background: #FFF;
+}
+.side-menu-btn {
+    display: none;
+}
+/*========== Start Header ==========*/    
+.info-header h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.text-header {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.info-header .play-video div.play {
+    margin-left: 5px;
+}
+/*========== Start About ==========*/
+.section-title h3,
+.section-title-left h3 {
+    font-size: 28px;
+
+}
+.section-title h2,
+.section-title-left h2 {
+    font-size: 18px;
+}
+.about-one .img-about-one {
+    padding-right: 15px;
+    padding-bottom: 50px;
+}
+.info-about {
+    padding-top: 0;
+}
+.info-about p {
+    padding-right: 0;
+}
+.about-img {
+    margin-right: 0;  
+}
+.feat-meta {
+    margin-left: 0;
+}
+.lets-work h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.scroll-up {
+    bottom: 90px;
+    right: 10px;
+}
+    
+    
+/* Blog Pages */
+.breadcrumb-area h1 {
+    font-size: 25px;
+    margin-bottom: 20px
+}
+.single-blog .blog-info {
+    padding: 20px;
+}
+.single-blog .blog-info .date li {
+    padding-right: 10px;
+}
+.single-blog .author img {
+    margin-right: 5px;
+}
+.single-blog .share span {
+    padding-right: 5px;
+}
+.single-blog .share-social li {
+    padding-left: 5px;
+}
+.blog-area .blog-info,
+.inner-comments,
+.comment-form,
+.widget-profile,
+.widget-search,
+.widget-posts,
+.tags-list,
+.widget-newsletter,
+.comments .title-comments,
+.title-add, 
+.title-widget {
+
+    padding: 20px;
+}
+    .categories-list li a {
+        padding-left: 20px;
+    }
+.comment-author img {
+    margin-right: 10px;
+    width: 60px;
+    height: 60px;
+}
+.person {
+    padding-left: 70px;
+}
+    
+.reply {
+    margin-left: 0px;
+}
+}
+
+
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*========== Start Theme Preview Index ==========*/  
+.header-area h1 {
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.navbar-light .navbar-brand .logo-2 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-light .navbar-brand .logo-1 {
+    display: none;
+}
+.navbar-light {
+    background: #FFF;
+}
+.navbar-light .navbar-toggler-icon,
+.navbar-light .navbar-toggler-icon.active ,
+.nav-fixed .navbar-toggler-icon,
+.nav-fixed .navbar-toggler-icon.active {
+    
+    background: #27aabb !important;
+}
+.fixed-top .navbar-nav .active>.nav-link,
+.fixed-top  .navbar-nav .nav-link.active,
+.fixed-top .navbar-nav .nav-link.show,
+.fixed-top  .navbar-nav .show>.nav-link
+{
+    color: #27aabb !important;
+}
+
+.fixed-top  .navbar-nav .active>.nav-link:before,
+.fixed-top  .navbar-nav .nav-link.active:before,
+.fixed-top  .navbar-nav .nav-link.show:before,
+.fixed-top  .navbar-nav .show>.nav-link:before {
+    opacity: 0;  
+}
+.nav-fixed .navbar-nav .active>.nav-link:before,
+.nav-fixed .navbar-nav .nav-link.active:before,
+.nav-fixed .navbar-nav .nav-link.show:before,
+.nav-fixed .navbar-nav .show>.nav-link:before {
+    opacity: 0;
+}
+.navbar-light .navbar-collapse {
+    background: #FFF;
+}
+.navbar-light .navbar-nav .nav-item .nav-link {
+    color: #17223e;
+    margin: 0;  
+    padding: 0 0 15px 0;
+} 
+.fixed-top .social-media-nav li a {
+    color: #17223e !important;
+}
+.social-media-nav {
+    padding: 10px 0;
+    padding-left: 0;
+}
+.navbar-light  .social-media-nav li {
+    padding-right: 10px;
+    padding-left: 0
+}
+.navbar-light  .social-media-nav li a {
+    color: #17223e;
+}
+.nav-fixed .social-media-nav li:first-of-type:before {
+    background: #FFF;
+}
+.side-menu-btn {
+    display: none;
+}
+/*========== Start Header ==========*/    
+.info-header h1 {
+    font-size: 45px;
+}
+.text-header {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.info-header .play-video div.play {
+    margin-left: 5px;
+}
+/*========== Start About ==========*/
+.section-title h3,
+.section-title-left h3 {
+    font-size: 35px;
+
+}
+.section-title h2,
+.section-title-left h2 {
+    font-size: 18px;
+}
+.about-one .img-about-one {
+    padding-right: 15px;
+    padding-bottom: 50px;
+}
+.info-about {
+    padding-top: 0;
+}
+.info-about p {
+    padding-right: 0;
+}
+.lets-work h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.scroll-up {
+    bottom: 90px;
+    right: 10px;
+}
+}
+
+/*  Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.navbar-light .navbar-brand .logo-2 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-light .navbar-brand .logo-1 {
+    display: none;
+}
+.navbar-light {
+    background: #FFF;
+}
+.navbar-light .navbar-toggler-icon,
+.navbar-light .navbar-toggler-icon.active ,
+.nav-fixed .navbar-toggler-icon,
+.nav-fixed .navbar-toggler-icon.active {
+    
+    background: #27aabb !important;
+}
+.fixed-top .navbar-nav .active>.nav-link,
+.fixed-top  .navbar-nav .nav-link.active,
+.fixed-top .navbar-nav .nav-link.show,
+.fixed-top  .navbar-nav .show>.nav-link
+{
+    color: #27aabb !important;
+}
+
+.fixed-top  .navbar-nav .active>.nav-link:before,
+.fixed-top  .navbar-nav .nav-link.active:before,
+.fixed-top  .navbar-nav .nav-link.show:before,
+.fixed-top  .navbar-nav .show>.nav-link:before {
+    opacity: 0;  
+}
+.nav-fixed .navbar-nav .active>.nav-link:before,
+.nav-fixed .navbar-nav .nav-link.active:before,
+.nav-fixed .navbar-nav .nav-link.show:before,
+.nav-fixed .navbar-nav .show>.nav-link:before {
+    opacity: 0;
+}
+.navbar-light .navbar-collapse {
+    background: #FFF;
+}
+.navbar-light .navbar-nav .nav-item .nav-link {
+    color: #17223e;
+    margin: 0;  
+    padding: 0 0 15px 0;
+} 
+.fixed-top .social-media-nav li a {
+    color: #17223e !important;
+}
+.social-media-nav {
+    padding: 10px 0;
+    padding-left: 0;
+}
+.navbar-light  .social-media-nav li {
+    padding-right: 10px;
+    padding-left: 0
+}
+.navbar-light  .social-media-nav li a {
+    color: #17223e;
+}
+.nav-fixed .social-media-nav li:first-of-type:before {
+    background: #FFF;
+}
+.side-menu-btn {
+    display: none;
+}
+/*========== Start Header ==========*/    
+.info-header h1 {
+    font-size: 45px;
+}
+
+.section-title p {
+    padding-right: 0;
+    padding-left: 0;
+}
+/*========== Start About ==========*/
+
+.section-title h3,
+.section-title-left h3 {
+    font-size: 40px;
+
+}
+.section-title h2,
+.section-title-left h2 {
+    font-size: 18px;
+}
+.about-one .img-about-one {
+    padding-right: 15px;
+    padding-bottom: 50px;
+}
+.info-about {
+    padding-top: 0;
+}
+.info-about p {
+    padding-right: 0;
+}
+
+.feat-meta {
+    margin-left: 0;
+}
+.feat-meta {
+    margin-left: 0;
+    width: 100%;
+}
+.box-img img {
+    border-radius: 8px;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    display: block;
+    width: 100%;
+}
+.about-img {
+    margin-right: 0;
+    width: 100%;
+}
+.social-media li a {
+    margin-bottom: 5px;
+}
+.lets-work h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.scroll-up {
+    bottom: 90px;
+    right: 10px;
+}
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
