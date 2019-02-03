@@ -149,7 +149,7 @@ h5 {
 p {
     line-height: 28px;
     font-weight: 500;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #9b9b9b;
 }
 .empty-btn {
@@ -157,7 +157,7 @@ p {
     padding: 10px 30px;
     text-transform: uppercase;
     font-size: 13px;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     display: inline-block;
 }
@@ -281,7 +281,7 @@ p {
 .section-title-left h2 {
     color: black;
     display: block;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     margin-bottom: 15px;
     letter-spacing: 0.3px;
@@ -323,7 +323,7 @@ p {
     -webkit-box-shadow: -5px 10px 30px -5px rgba(0, 0, 0, 0.2);
     box-shadow: -5px 10px 30px -5px rgba(0, 0, 0, 0.2);
     display: inline-block;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative;
     z-index: 2;
     font-size: 13px;
@@ -417,7 +417,7 @@ body {
     position: relative;
     margin: 0;
     padding: 0;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #777777;
@@ -450,13 +450,13 @@ body {
 }
 
 .header-area p {
-    text-transform: capitalize;
+    text-transform: uppercase;
     font-size: 24px;
     color: #f8f8f8;
     font-weight: 600;
     line-height: 30px;
     margin-bottom: 35px;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 /* Start Demos */
 .demos {
@@ -486,7 +486,7 @@ body {
     color: #17223e;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     letter-spacing: 1px;
 }
@@ -547,7 +547,7 @@ body {
     font-size: 13px;
     font-weight: 700;
     padding: 30px 0;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0 20px 0 5px;
     position: relative;
     text-transform: uppercase;
@@ -893,13 +893,13 @@ body {
     display: block;
 }
 .text-header {
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     font-size: 18px;
     color: #f8f8f8;
     font-weight: 600;
     line-height: 30px;
     margin-bottom: 35px;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .banner {
     position: relative;
@@ -1280,7 +1280,7 @@ text-right {
     color: #17223e;
     text-transform: uppercase;
     font-size: 18px;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
 
@@ -1465,7 +1465,7 @@ text-right {
     font-size: 14px;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .my-work:hover .info-img h5 {
@@ -1958,7 +1958,7 @@ text-right {
     margin: 0 0 15px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .author img {
@@ -2195,7 +2195,7 @@ footer h2 {
     line-height: 20px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-top: 5px;
 }
 
@@ -2732,7 +2732,7 @@ footer .copyright a {
     margin: 0 0 10px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .person p {
     margin-bottom: 10px;
@@ -2744,7 +2744,7 @@ footer .copyright a {
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .person a:hover {
     color: #17223e;
