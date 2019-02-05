@@ -2086,6 +2086,7 @@ text-right {
 /*----------------------------------------------------------------
                         Start Footer
 ----------------------------------------------------------------*/
+
 footer {
     background-image: url(http://placehold.it/1920x1280);
     background-position: center center;
@@ -2102,7 +2103,7 @@ footer {
     
 }
 footer .overlay {
-    background: linear-gradient(45deg, rgba(34, 35, 62, 0.97) 0%, hsla(238, 29%, 19%, 0.97) 100%);
+    background: #000000;
     position: absolute;
     top: 0;
     left: 0;

@@ -838,35 +838,35 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input type="text" placeholder="Votre nom">
+                                <input type="text" name="name" placeholder="Votre nom"/>
                             </div>
 
                         </div>  
                         
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input type="Email" placeholder="Courriel">
+                                <input type="Email" name="email" placeholder="Courriel">
                             </div>
 
                         </div>
                         
                         <div class="col-md-12">
                             <div class="form-group">
-                                <label><input type="text" name="sujet"/></label><input type="text" placeholder="Comment on peut vous aider?">
+                                <input type="text" placeholder="Comment on peut vous aider?">
                             </div>
 
                         </div>
                         
                         <div class="col-md-12">
                             <div class="form-group">
-                                <textarea placeholder="Expliquez votre projet brièvement ici "></textarea>
+                                <textarea name="message" placeholder="Décrivez votre projet brièvement" ></textarea>
                             </div>
                         </div>
                     </div>
-
+                    <div data-netlify-recaptcha="true"></div>
                     
                     <!-- Button Send Message  -->
-                    <a href="#" class="btn-one">Envoyer</a>
+                    <button class="btn-one" type=”submit”>Send</button>
                 </form>
 
 
