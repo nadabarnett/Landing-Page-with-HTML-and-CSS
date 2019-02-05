@@ -2021,8 +2021,7 @@ text-right {
     position: relative;
 }
 .clients .overlay {
-    background: rgb(0,0,0);
-    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(205,205,205,1) 61%, rgba(255,255,255,1) 100%);
+    background: #cdcdcd;
     position: absolute;
     top: 0;
     left: 0;
