@@ -1211,7 +1211,9 @@ text-right {
     width: 100%;
     height: 100%;
     border: 1px solid #fff;
-    background-color: rgba(35, 35, 58, 0.2);
+    background: url("../images/Emilie-about.png") no-repeat;
+    background-size: cover;
+    /* background-color: rgba(35, 35, 58, 0.2); */
     position: relative;
 }
 
