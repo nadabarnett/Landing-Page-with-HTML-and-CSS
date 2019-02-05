@@ -53,12 +53,12 @@
     background: #FFF;
 }
 .navbar-light .navbar-nav .nav-item .nav-link {
-    color: #17223e;
+    color: #000000;
     margin: 0;  
     padding: 0 0 15px 0;
 } 
 .fixed-top .social-media-nav li a {
-    color: #17223e !important;
+    color: #000000 !important;
 }
 .social-media-nav {
     padding: 10px 0;
@@ -69,7 +69,7 @@
     padding-left: 0
 }
 .navbar-light  .social-media-nav li a {
-    color: #17223e;
+    color: #000000;
 }
 .nav-fixed .social-media-nav li:first-of-type:before {
     background: #FFF;
