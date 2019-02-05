@@ -1517,7 +1517,7 @@ text-right {
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 10px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     margin-top: 15px;
 }
 .services-item  p {
