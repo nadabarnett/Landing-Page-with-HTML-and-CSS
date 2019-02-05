@@ -335,11 +335,11 @@ p {
     width: 170px;
     height: 51px;
     letter-spacing: 0.26px;
-    background: #000000 ;
-    color: #ffffff;
+    background: #ffffff ;
+    color: #000000;
 }
 .btn-one:hover{
-    background: white;
+    background: grey;
     color: #000000;
 }
 
