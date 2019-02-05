@@ -1228,12 +1228,13 @@ text-right {
 }
 
 .about-one .pos-text span {
-     display: block;
+    display: block;
     font-size: 12px;
     margin-top: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
     font-weight: 700;
+    color: grey;
 }
 
 .about-img {
