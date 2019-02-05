@@ -1656,7 +1656,8 @@ text-right {
     position: relative;
 }
 .testimonials .overlay {
-    background: linear-gradient(45deg, rgba(34, 35, 62, 0.8) 0%, hsla(238, 29%, 19%, 0.9) 100%);
+    background: rgb(255,255,255);
+    background: linear-gradient(133deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 68%);
     position: absolute;
     top: 0;
     left: 0;
