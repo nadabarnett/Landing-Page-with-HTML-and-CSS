@@ -2071,13 +2071,13 @@ text-right {
     padding-left: 40px;
     font-weight: 600;
     font-size: 14px;
-    color: #f8f8f8;
+    color: #fff;
 }
 .contact-item p {
     margin-bottom: 0;
     line-height: 24px;
-    font-weight: 500;
-    color: #ddd;
+    font-weight: 600;
+    color: #fff;
 }
 .info-contact  .social-media {
     margin-top: 50px;
