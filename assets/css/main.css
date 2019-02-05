@@ -662,7 +662,7 @@ body {
     position: relative;
 }
 .fixed-top .social-media-nav li a {
-    color: #fff !important;
+    color: #000 !important;
     transition: .1s;
 }
 .fixed-top .social-media-nav li a:hover {
