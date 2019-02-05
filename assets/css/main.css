@@ -387,7 +387,7 @@ p {
     width: 100%;
 }
 .bg-image {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -662,7 +662,7 @@ body {
     position: relative;
 }
 .fixed-top .social-media-nav li a {
-    color: #fff !important;
+    color: #000 !important;
     transition: .1s;
 }
 .fixed-top .social-media-nav li a:hover {
@@ -856,6 +856,8 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;*/
+         background: linear-gradient(180deg, rgba(255,255,255,0.8) 0%, rgba(0,0,0,1) 88%),url("../images/background.png") center center no-repeat; 
+
     top: 0;
     left: 0;
     -webkit-background-size: cover;
@@ -866,10 +868,11 @@ body {
     min-height: 100%;
     width: 100%;
     position: relative;
-    overflow: hidden;
+   
     z-index: 222;
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 88%);
+  
+     /* background: rgb(255,255,255);  */
+    
 }
 
 /*.home .overlay {
@@ -1035,7 +1038,7 @@ text-right {
 
 /*-----------  Header 04-Home  particles -----------*/
 .header-4 {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1064,7 +1067,7 @@ text-right {
 
 /*-----------  Header 05-Home  Typed -----------*/
 .header-5 {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1084,7 +1087,7 @@ text-right {
 
 /*-----------  Header 06-Home  Typed + particles -----------*/
 .header-6 {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1208,7 +1211,9 @@ text-right {
     width: 100%;
     height: 100%;
     border: 1px solid #fff;
-    background-color: rgba(35, 35, 58, 0.2);
+    background: url("../images/Emilie-about.png") no-repeat;
+    background-size: cover;
+    /* background-color: rgba(35, 35, 58, 0.2); */
     position: relative;
 }
 
@@ -1217,7 +1222,7 @@ text-right {
     bottom: 30px;
     left: 30px;
     font-size: 60px;
-    color: #FFF;
+    color: #000;
     font-weight: 700;
     letter-spacing: 2px
 }
@@ -1301,7 +1306,7 @@ text-right {
 					Start Statistics 
 ----------------------------------------------------------------*/
 .statistics {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1494,6 +1499,7 @@ text-right {
     border: 1px solid #EEE;
     background: #FFF;
     text-align: center;
+    height: 360px;
 }
 .services-item:hover{
     -webkit-box-shadow: 0px 10px 25px rgba(0,0,0,0.1);
@@ -1636,10 +1642,10 @@ text-right {
 					Start Section Testimonials 
 ----------------------------------------------------------------*/
 .testimonials {
-    background-image: url(http://placehold.it/1920x1280);
-    background-position: center center;
+    /* background-image: url(http://placehold.it/1920x1280); */
+    /* background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed; */
     top: 0;
     left: 0;
     -webkit-background-size: cover;
@@ -1845,8 +1851,13 @@ text-right {
 /*----------------------------------------------------------------
 					start Section lets work 
 ----------------------------------------------------------------*/
+<<<<<<< HEAD
 /*.lets-work {
     background-image: url(http://placehold.it/1920x1280);
+=======
+.lets-work {
+    /* background-image: url(http://placehold.it/1920x1280); */
+>>>>>>> 39f6049fa3cf4bd3cee07646c3453cb30e16f6d4
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1996,7 +2007,7 @@ text-right {
 ----------------------------------------------------------------*/
 
 .clients {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -2089,7 +2100,7 @@ text-right {
 ----------------------------------------------------------------*/
 
 footer {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     top: 0;
@@ -2290,7 +2301,7 @@ footer h2 {
 .footer-bar {
     z-index: 3;
     position: relative;
-    background: #21223a;
+    background: #cdcdcd;
 }
 
 footer .copyright {
@@ -2340,7 +2351,7 @@ footer .copyright a {
 .breadcrumb-area {
     padding-top: 250px;
     padding-bottom: 150px;
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     position: relative;
     z-index: 0;
     background-size: cover;
