@@ -387,7 +387,7 @@ p {
     width: 100%;
 }
 .bg-image {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1038,7 +1038,7 @@ text-right {
 
 /*-----------  Header 04-Home  particles -----------*/
 .header-4 {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1067,7 +1067,7 @@ text-right {
 
 /*-----------  Header 05-Home  Typed -----------*/
 .header-5 {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1087,7 +1087,7 @@ text-right {
 
 /*-----------  Header 06-Home  Typed + particles -----------*/
 .header-6 {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1306,7 +1306,7 @@ text-right {
 					Start Statistics 
 ----------------------------------------------------------------*/
 .statistics {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -1642,10 +1642,10 @@ text-right {
 					Start Section Testimonials 
 ----------------------------------------------------------------*/
 .testimonials {
-    background-image: url(http://placehold.it/1920x1280);
-    background-position: center center;
+    /* background-image: url(http://placehold.it/1920x1280); */
+    /* background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed; */
     top: 0;
     left: 0;
     -webkit-background-size: cover;
@@ -1852,7 +1852,7 @@ text-right {
 					start Section lets work 
 ----------------------------------------------------------------*/
 .lets-work {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -2002,7 +2002,7 @@ text-right {
 ----------------------------------------------------------------*/
 
 .clients {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -2095,7 +2095,7 @@ text-right {
 ----------------------------------------------------------------*/
 
 footer {
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     background-position: center center;
     background-repeat: no-repeat;
     top: 0;
@@ -2346,7 +2346,7 @@ footer .copyright a {
 .breadcrumb-area {
     padding-top: 250px;
     padding-bottom: 150px;
-    background-image: url(http://placehold.it/1920x1280);
+    /* background-image: url(http://placehold.it/1920x1280); */
     position: relative;
     z-index: 0;
     background-size: cover;
