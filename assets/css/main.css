@@ -337,6 +337,7 @@ p {
     letter-spacing: 0.26px;
     background: #ffffff ;
     color: #000000;
+    margin-top: 20px;
 }
 .btn-one:hover{
     background: grey;
